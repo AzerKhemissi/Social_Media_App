@@ -25,27 +25,27 @@ Welcome to TALK, my personal social networking platform, built with modern web t
 📸 Screenshots
 Below are some screenshots showcasing the main features of the application:
 
-. Sign Up / Login : 
-    public/sign_in_1.png
-    public/sign_in_2.png
-    public/sign_up_1.png
-    public/sign_up_2.png
+. Sign Up / Login :
+    ![image_not_found](public/sign_in_1.png)
+    ![image_not_found](public/sign_in_2.png)
+    ![image_not_found](public/sign_up_1.png)
+    ![image_not_found](public/sign_up_2.png)
 
 . Home Page :
-    public/home_page_1.png
-    public/home_page_2.png
+    ![image_not_found](public/home_page_1.png)
+    ![image_not_found](public/home_page_2.png)
 
 . Notifications :
-    public/notifications_1.png
-    public/notifications_2.png
+    ![image_not_found](public/notifications_1.png)
+    ![image_not_found](public/notifications_2.png)
 
 . Profile :
-    public/profile_1.png
-    public/profile_2.png
+    ![image_not_found](public/profile_1.png)
+    ![image_not_found](public/profile_2.png)
 
 . Edit Profile :
-    edit_profile.png
+    ![image_not_found](public/edit_profile.png)
 
 . Edit Account :
-    public/edit_account_1.png
-    public/edit_account_2.png
+    ![image_not_found](public/edit_account_1.png)
+    ![image_not_found](public/edit_account_2.png)
