@@ -25,40 +25,27 @@ Welcome to TALK, my personal social networking platform, built with modern web t
 📸 Screenshots
 Below are some screenshots showcasing the main features of the application:
 
-. Sign Up / Login :
+### Sign Up / Login :
+![Sign In 1](public/sign_in_1.png)
+![Sign In 2](public/sign_in_2.png)
+![Sign Up 1](public/sign_up_1.png)
+![Sign Up 2](public/sign_up_2.png)
 
-    ![image_not_found](public/sign_in_1.png)
+### Home Page :
+![Home Page 1](public/home_page_1.png)
+![Home Page 2](public/home_page_2.png)
 
-    ![image_not_found](public/sign_in_2.png)
+### Notifications :
+![Notifications 1](public/notifications_1.png)
+![Notifications 2](public/notifications_2.png)
 
-    ![image_not_found](public/sign_up_1.png)
+### Profile :
+![Profile 1](public/profile_1.png)
+![Profile 2](public/profile_2.png)
 
-    ![image_not_found](public/sign_up_2.png)
+### Edit Profile :
+![Edit Profile](public/edit_profile.png)
 
-. Home Page :
-
-    ![image_not_found](public/home_page_1.png)
-
-    ![image_not_found](public/home_page_2.png)
-
-. Notifications :
-
-    ![image_not_found](public/notifications_1.png)
-
-    ![image_not_found](public/notifications_2.png)
-
-. Profile :
-
-    ![image_not_found](public/profile_1.png)
-
-    ![image_not_found](public/profile_2.png)
-
-. Edit Profile :
-
-    ![image_not_found](public/edit_profile.png)
-
-. Edit Account :
-
-    ![image_not_found](public/edit_account_1.png)
-    
-    ![image_not_found](public/edit_account_2.png)
+### Edit Account :
+![Edit Account 1](public/edit_account_1.png)
+![Edit Account 2](public/edit_account_2.png)
